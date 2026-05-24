@@ -238,3 +238,16 @@ footer{
     height:auto;
   }
 }
+.voucher-container{
+
+  display:flex;
+  justify-content:center;
+  gap:30px;
+  flex-wrap:wrap;
+}
+
+.voucher-card h3{
+
+  color:#ffd1dc;
+  margin-bottom:15px;
+}
